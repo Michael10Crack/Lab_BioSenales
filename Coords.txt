@@ -1,0 +1,26 @@
+
+bioma arboles rosas 	1090 80 -720
+			-1000 64 1219 (distancia 20 chunks)
+
+Nether fort : 305 59 -211
+236 69 -206
+
+CASA: -1140 70 60
+SPAWN: alrededor de 0 0
+Nether hall (provisional) : -122 118 -4 -1026 y -51 ( -128 118 -6
+
+Segunda aldea y Pillager's hall : -1344 63 735 (desde la distancia, se ve desde la aldea a 20 chunks de render)
+
+Aldea abandonada: -937 63 1513 
+
+Portal al nether del end [OW] : -1012 34 1029 / -127 118 128
+
+End city : 	-2300 100 -2140 (grande y pequeña cerca)
+		-4027 120 -2812 (mediana y grande)
+		-4080 153 -1550 (complejo deportivo de end cities)
+		-2808 150 -850
+		
+Templo marino: -193 60 -427
+
+
+
